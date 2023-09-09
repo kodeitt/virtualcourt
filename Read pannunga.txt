@@ -1,0 +1,1 @@
+Bro's This folder consists of both the front end and the hackathon file which includes the backend.
